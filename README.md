@@ -26,5 +26,5 @@
 
 <img align="left" alt="IBimsEinDomi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IBimsEinDomi&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/moewendomi/
+[instagram]: https://www.instagram.com/ibimseindomi_/
 [discord]: https://discord.com/users/354191516979429376
