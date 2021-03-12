@@ -1,12 +1,12 @@
-### Hi there, I'm Dominik - aka IBimsEinDomi 👋
+### Hi there, I'm Dominik - aka HypedDomi 👋
 
 ## I'm a Developer!
 - 🌱 I’m currently learn by doing 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="moewendomi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="IBimsEinDomi | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 
 <br />
 
@@ -26,5 +26,5 @@
 
 <img align="left" alt="IBimsEinDomi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IBimsEinDomi&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/ibimseindomi_/
+[instagram]: https://www.instagram.com/hypeddomi/
 [discord]: https://discord.com/users/354191516979429376
