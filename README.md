@@ -1,30 +1,7 @@
-### Hi there, I'm Dominik - aka HypedDomi 👋
+### Hey 👋
 
-## I'm a Developer!
-- 🌱 I’m currently learn by doing 🤣
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HypedDomi&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypedDomi&layout=compact&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818"height="180">
+</p>
 
-### Connect with me:
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HypedDomi&show_icons=true&hide_border=true" />
-
-[instagram]: https://www.instagram.com/hypeddomi/
-[discord]: https://discord.com/users/354191516979429376
